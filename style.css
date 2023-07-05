@@ -92,3 +92,42 @@
     font-size: 18px;
     margin-top:15px;
 }
+.service-container{
+    padding: 20px;
+    flex-wrap: wrap;
+    background-image: url("./images/background.png"), linear-gradient(45deg, rgb(12, 11, 11), rgb(59, 52, 52));
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    color: white; 
+    
+}
+
+.img-x{
+    width: 100px;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 105px grey;
+}
+.ser{
+    color: white;
+}
+
+.h44{
+    padding: 5px;
+}
+.p44{
+    padding: 5px;
+}
+.btn-det{
+    padding: 5px;
+    margin-top: 5px;
+}
